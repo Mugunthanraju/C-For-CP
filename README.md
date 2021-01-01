@@ -1,1 +1,1 @@
-# C-For-CP
+# C++ for Competetive Programing.
